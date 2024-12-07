@@ -1,0 +1,6 @@
+Django
+psycopg2
+Pillow
+drf-writable-nested
+DjangoRestFramework
+PostgreSQL
